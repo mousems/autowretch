@@ -1,0 +1,70 @@
+C:\Documents and Settings\Administrator\桌面\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch3.8.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.checkusername.resources
+C:\Documents and Settings\Administrator\桌面\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.form1.resources
+C:\Documents and Settings\Administrator\桌面\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.funcform.resources
+C:\Documents and Settings\Administrator\桌面\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.getidmac.resources
+C:\Documents and Settings\Administrator\桌面\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.talk.resources
+C:\Documents and Settings\Administrator\桌面\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.userset.resources
+C:\Documents and Settings\Administrator\桌面\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.welcome.resources
+C:\Documents and Settings\Administrator\桌面\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.Resources.resources
+C:\Documents and Settings\Administrator\桌面\autowretch3.8 source\autowretch3.8\autowretch3.8\bin\Debug\autowretch.exe
+C:\Documents and Settings\Administrator\桌面\autowretch3.8 source\autowretch3.8\autowretch3.8\bin\Debug\autowretch.pdb
+C:\Documents and Settings\Administrator\桌面\autowretch3.8 source\autowretch3.8\autowretch3.8\bin\Debug\autowretch.xml
+C:\Documents and Settings\Administrator\桌面\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.exe
+C:\Documents and Settings\Administrator\桌面\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.xml
+C:\Documents and Settings\Administrator\桌面\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.pdb
+J:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.exe
+J:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.xml
+J:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.pdb
+J:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\bin\Debug\autowretch.exe
+J:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\bin\Debug\autowretch.pdb
+J:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\bin\Debug\autowretch.xml
+J:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\ResolveAssemblyReference.cache
+J:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.checkusername.resources
+J:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.form1.resources
+J:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.funcform.resources
+J:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.getidmac.resources
+J:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.talk.resources
+J:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.userset.resources
+J:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.welcome.resources
+J:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.Resources.resources
+J:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch3.8.vbproj.GenerateResource.Cache
+H:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.exe
+H:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.xml
+H:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.pdb
+J:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.readsl.resources
+M:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.exe
+M:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.xml
+M:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.pdb
+M:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\bin\Debug\autowretch.exe
+M:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\bin\Debug\autowretch.pdb
+M:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\bin\Debug\autowretch.xml
+M:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\ResolveAssemblyReference.cache
+M:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.checkusername.resources
+M:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.form1.resources
+M:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.funcform.resources
+M:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.getidmac.resources
+M:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.readsl.resources
+M:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.talk.resources
+M:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.userset.resources
+M:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.welcome.resources
+M:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.Resources.resources
+M:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch3.8.vbproj.GenerateResource.Cache
+N:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.exe
+N:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.xml
+N:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.pdb
+N:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\bin\Debug\autowretch.exe
+N:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\bin\Debug\autowretch.pdb
+N:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\bin\Debug\autowretch.xml
+N:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\ResolveAssemblyReference.cache
+N:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.checkusername.resources
+N:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.form1.resources
+N:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.funcform.resources
+N:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.getidmac.resources
+N:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.readsl.resources
+N:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.talk.resources
+N:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.userset.resources
+N:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.welcome.resources
+N:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch.Resources.resources
+N:\data\autowretch\autowretch3.8 source\autowretch3.8\autowretch3.8\obj\Debug\autowretch3.8.vbproj.GenerateResource.Cache
